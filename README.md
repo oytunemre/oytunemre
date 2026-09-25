@@ -8,3 +8,6 @@ so I know how orders, sellers and payments work from the inside.
 - [Exodus](https://github.com/oytunemre/Exodus): Marketplace REST API (ASP.NET Core, EF Core, SQL Server, RabbitMQ, iyzico)
 
 **Stack:** C#, ASP.NET Core, EF Core, SQL Server, MySQL, Java/Spring Boot, TypeScript
+
+[LinkedIn](https://www.linkedin.com/in/oytunemreozmel/)
+Mail: ozmeloytunemre@gmail.com
