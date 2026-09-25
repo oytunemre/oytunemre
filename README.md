@@ -10,9 +10,6 @@ Before moving into development, I spent 1.5+ years at a B2B pharmaceutical marke
 - **Production & Supplier Quality ERP**: Built solo for a manufacturing company, in daily production use<br>`PHP` `MySQL` `JavaScript` `GitHub Actions`
 - **Kronos**: Management app for fitness studios (in development)<br>`React Native` `Expo` `TypeScript` `Supabase`
 
-#### Currently
-
-Going deeper into SQL Server performance and integration testing.
 
 #### Contact
 
