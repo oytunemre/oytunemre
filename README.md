@@ -9,5 +9,7 @@ so I know how orders, sellers and payments work from the inside.
 
 **Stack:** C#, ASP.NET Core, EF Core, SQL Server, MySQL, Java/Spring Boot, TypeScript
 
+**Contact**
 [LinkedIn](https://www.linkedin.com/in/oytunemreozmel/)
+
 Mail: ozmeloytunemre@gmail.com
